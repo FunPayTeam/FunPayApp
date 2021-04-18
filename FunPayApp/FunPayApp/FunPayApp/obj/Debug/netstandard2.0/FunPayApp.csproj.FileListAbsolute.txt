@@ -1,0 +1,17 @@
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\bin\Debug\netstandard2.0\FunPayApp.deps.json
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\bin\Debug\netstandard2.0\FunPayApp.dll
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\bin\Debug\netstandard2.0\FunPayApp.pdb
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.csprojAssemblyReference.cache
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.csproj.CoreCompileInputs.cache
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.AssemblyInfoInputs.cache
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.AssemblyInfo.cs
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.dll
+D:\git\HaoruGit\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.pdb
