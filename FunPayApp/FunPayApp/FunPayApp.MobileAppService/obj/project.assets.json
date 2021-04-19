@@ -13151,11 +13151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp.MobileAppService\\FunPayApp.MobileAppService.csproj",
+      "projectUniqueName": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.MobileAppService\\FunPayApp.MobileAppService.csproj",
       "projectName": "FunPayApp.MobileAppService",
-      "projectPath": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp.MobileAppService\\FunPayApp.MobileAppService.csproj",
+      "projectPath": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.MobileAppService\\FunPayApp.MobileAppService.csproj",
       "packagesPath": "C:\\Users\\t181738\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp.MobileAppService\\obj\\",
+      "outputPath": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.MobileAppService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

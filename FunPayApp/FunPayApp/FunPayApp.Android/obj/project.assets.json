@@ -841,11 +841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp.Android\\FunPayApp.Android.csproj",
+      "projectUniqueName": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.Android\\FunPayApp.Android.csproj",
       "projectName": "FunPayApp.Android",
-      "projectPath": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp.Android\\FunPayApp.Android.csproj",
+      "projectPath": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.Android\\FunPayApp.Android.csproj",
       "packagesPath": "C:\\Users\\t181738\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp.Android\\obj\\",
+      "outputPath": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -866,8 +866,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj": {
-              "projectPath": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj"
+            "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj": {
+              "projectPath": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj"
             }
           }
         }

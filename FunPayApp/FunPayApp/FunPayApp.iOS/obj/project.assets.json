@@ -790,11 +790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp.iOS\\FunPayApp.iOS.csproj",
+      "projectUniqueName": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.iOS\\FunPayApp.iOS.csproj",
       "projectName": "FunPayApp.iOS",
-      "projectPath": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp.iOS\\FunPayApp.iOS.csproj",
+      "projectPath": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.iOS\\FunPayApp.iOS.csproj",
       "packagesPath": "C:\\Users\\t181738\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp.iOS\\obj\\",
+      "outputPath": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -815,8 +815,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj": {
-              "projectPath": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj"
+            "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj": {
+              "projectPath": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj"
             }
           }
         }

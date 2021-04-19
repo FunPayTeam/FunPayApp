@@ -389,11 +389,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj",
+      "projectUniqueName": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj",
       "projectName": "FunPayApp",
-      "projectPath": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj",
+      "projectPath": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj",
       "packagesPath": "C:\\Users\\t181738\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\HaoruGit\\FunPayApp\\FunPayApp\\FunPayApp\\obj\\",
+      "outputPath": "D:\\git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
