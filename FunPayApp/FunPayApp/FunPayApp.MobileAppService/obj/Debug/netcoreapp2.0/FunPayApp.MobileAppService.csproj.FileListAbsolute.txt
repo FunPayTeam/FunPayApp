@@ -9,3 +9,14 @@ D:\git\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\obj\Debug\netcor
 D:\git\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\obj\Debug\netcoreapp2.0\FunPayApp.MobileAppService.AssemblyInfo.cs
 D:\git\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\obj\Debug\netcoreapp2.0\FunPayApp.MobileAppService.dll
 D:\git\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\obj\Debug\netcoreapp2.0\FunPayApp.MobileAppService.pdb
+D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\bin\Debug\netcoreapp2.0\FunPayApp.MobileAppService.deps.json
+D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\bin\Debug\netcoreapp2.0\FunPayApp.MobileAppService.runtimeconfig.json
+D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\bin\Debug\netcoreapp2.0\FunPayApp.MobileAppService.runtimeconfig.dev.json
+D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\bin\Debug\netcoreapp2.0\FunPayApp.MobileAppService.dll
+D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\bin\Debug\netcoreapp2.0\FunPayApp.MobileAppService.pdb
+D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\obj\Debug\netcoreapp2.0\FunPayApp.MobileAppService.csproj.CoreCompileInputs.cache
+D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\obj\Debug\netcoreapp2.0\FunPayApp.MobileAppService.AssemblyInfoInputs.cache
+D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\obj\Debug\netcoreapp2.0\FunPayApp.MobileAppService.AssemblyInfo.cs
+D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\obj\Debug\netcoreapp2.0\FunPayApp.MobileAppService.dll
+D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\obj\Debug\netcoreapp2.0\FunPayApp.MobileAppService.pdb
+D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp.MobileAppService\obj\Debug\netcoreapp2.0\FunPayApp.MobileAppService.csprojAssemblyReference.cache
