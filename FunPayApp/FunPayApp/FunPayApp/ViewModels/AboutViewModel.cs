@@ -9,7 +9,7 @@ namespace FunPayApp.ViewModels
     {
         public AboutViewModel()
         {
-            Title = "About";
+            Title = "設定付款喜好";
 
             OpenWebCommand = new Command(() => Device.OpenUri(new Uri("https://xamarin.com/platform")));
         }

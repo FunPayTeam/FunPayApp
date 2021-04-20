@@ -25,7 +25,7 @@ namespace FunPayApp.Services
         {
             if (forceRefresh)
             {
-                var json = await client.GetStringAsync($"api/item");
+                var json = await client.GetStringAsync($"api/itemApi");
                 items = await Task.Run(() => JsonConvert.DeserializeObject<IEnumerable<Item>>(json));
             }
 
@@ -36,7 +36,7 @@ namespace FunPayApp.Services
         {
             if (id != null)
             {
-                var json = await client.GetStringAsync($"api/item/{id}");
+                var json = await client.GetStringAsync($"api/itemApi/{id}");
                 return await Task.Run(() => JsonConvert.DeserializeObject<Item>(json));
             }
 
@@ -50,7 +50,7 @@ namespace FunPayApp.Services
 
             var serializedItem = JsonConvert.SerializeObject(item);
 
-            var response = await client.PostAsync($"api/item", new StringContent(serializedItem, Encoding.UTF8, "application/json"));
+            var response = await client.PostAsync($"api/itemApi", new StringContent(serializedItem, Encoding.UTF8, "application/json"));
 
             return response.IsSuccessStatusCode;
         }
@@ -64,7 +64,7 @@ namespace FunPayApp.Services
             var buffer = Encoding.UTF8.GetBytes(serializedItem);
             var byteContent = new ByteArrayContent(buffer);
 
-            var response = await client.PutAsync(new Uri($"api/item/{item.Id}"), byteContent);
+            var response = await client.PutAsync(new Uri($"api/itemApi/{item.Id}"), byteContent);
 
             return response.IsSuccessStatusCode;
         }
@@ -74,7 +74,7 @@ namespace FunPayApp.Services
             if (string.IsNullOrEmpty(id))
                 return false;
 
-            var response = await client.DeleteAsync($"api/item/{id}");
+            var response = await client.DeleteAsync($"api/itemApi/{id}");
 
             return response.IsSuccessStatusCode;
         }

@@ -18,8 +18,8 @@ namespace FunPayApp.Views
 
             menuItems = new List<HomeMenuItem>
             {
-                new HomeMenuItem {Id = MenuItemType.Browse, Title="尋找商家" },
-                new HomeMenuItem {Id = MenuItemType.About, Title="喜好設定" }
+                new HomeMenuItem {Id = MenuItemType.Browse, Title="尋找附近商家" },
+                new HomeMenuItem {Id = MenuItemType.About, Title="設定付款喜好" }
             };
 
             ListViewMenu.ItemsSource = menuItems;

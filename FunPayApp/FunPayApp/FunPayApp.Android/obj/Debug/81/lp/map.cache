@@ -1,7 +1,7 @@
-FunPayApp
-System.Runtime
 FormsViewGroup
+FunPayApp
 Newtonsoft.Json
+System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
 Xamarin.Android.Arch.Lifecycle.Runtime

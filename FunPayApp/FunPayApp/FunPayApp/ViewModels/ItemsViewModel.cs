@@ -17,7 +17,7 @@ namespace FunPayApp.ViewModels
 
         public ItemsViewModel()
         {
-            Title = "Browse";
+            Title = "尋找附近商家";
             Items = new ObservableCollection<Item>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
 
