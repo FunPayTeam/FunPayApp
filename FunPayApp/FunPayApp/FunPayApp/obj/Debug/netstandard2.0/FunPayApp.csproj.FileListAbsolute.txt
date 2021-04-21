@@ -30,9 +30,9 @@ D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\net
 D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.csproj.CoreCompileInputs.cache
 D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.AssemblyInfoInputs.cache
 D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.AssemblyInfo.cs
-D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\XamlC.stamp
 D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.dll
 D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.pdb
+<<<<<<< HEAD
 D:\Git\FunPayApp\FunPayApp\FunPayApp\FunPayApp\bin\Debug\netstandard2.0\FunPayApp.deps.json
 D:\Git\FunPayApp\FunPayApp\FunPayApp\FunPayApp\bin\Debug\netstandard2.0\FunPayApp.dll
 D:\Git\FunPayApp\FunPayApp\FunPayApp\FunPayApp\bin\Debug\netstandard2.0\FunPayApp.pdb
@@ -50,3 +50,7 @@ D:\Git\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayAp
 D:\Git\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\XamlC.stamp
 D:\Git\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.dll
 D:\Git\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.pdb
+=======
+D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\XamlC.stamp
+>>>>>>> d075bb63c17c679a0891533b6fd53f9ab7ad72f3
+D:\Git\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.csprojAssemblyReference.cache
