@@ -30,6 +30,6 @@ D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\net
 D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.csproj.CoreCompileInputs.cache
 D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.AssemblyInfoInputs.cache
 D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.AssemblyInfo.cs
-D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\XamlC.stamp
 D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.dll
 D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\FunPayApp.pdb
+D:\[x]PersonalFile\Xamarin\FunPayApp\FunPayApp\FunPayApp\FunPayApp\obj\Debug\netstandard2.0\XamlC.stamp
