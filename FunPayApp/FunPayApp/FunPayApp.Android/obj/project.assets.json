@@ -976,20 +976,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\t179732\\.nuget\\packages\\": {}
+    "C:\\Users\\洪芸璇\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\[x]PersonalFile\\Xamarin\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.Android\\FunPayApp.Android.csproj",
+      "projectUniqueName": "D:\\Git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.Android\\FunPayApp.Android.csproj",
       "projectName": "FunPayApp.Android",
-      "projectPath": "D:\\[x]PersonalFile\\Xamarin\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.Android\\FunPayApp.Android.csproj",
-      "packagesPath": "C:\\Users\\t179732\\.nuget\\packages\\",
-      "outputPath": "D:\\[x]PersonalFile\\Xamarin\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.Android\\obj\\",
+      "projectPath": "D:\\Git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.Android\\FunPayApp.Android.csproj",
+      "packagesPath": "C:\\Users\\洪芸璇\\.nuget\\packages\\",
+      "outputPath": "D:\\Git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\t179732\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\洪芸璇\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -997,15 +997,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.kerrytj.com/v3/index.json": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\[x]PersonalFile\\Xamarin\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj": {
-              "projectPath": "D:\\[x]PersonalFile\\Xamarin\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj"
+            "D:\\Git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj": {
+              "projectPath": "D:\\Git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj"
             }
           }
         }

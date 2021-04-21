@@ -77,11 +77,12 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "+CXwCiWS+ZxEEcf2+9aX/cjosuWbSW9SKFJy2vP2RliEks189ivA37RSUKX9I/LtwVE2m41S3IOHnbCHhUDhhw==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -485,23 +486,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\t179732\\.nuget\\packages\\": {},
+    "C:\\Users\\洪芸璇\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\[x]PersonalFile\\Xamarin\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj",
+      "projectUniqueName": "D:\\Git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj",
       "projectName": "FunPayApp",
-      "projectPath": "D:\\[x]PersonalFile\\Xamarin\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj",
-      "packagesPath": "C:\\Users\\t179732\\.nuget\\packages\\",
-      "outputPath": "D:\\[x]PersonalFile\\Xamarin\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\obj\\",
+      "projectPath": "D:\\Git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp.csproj",
+      "packagesPath": "C:\\Users\\洪芸璇\\.nuget\\packages\\",
+      "outputPath": "D:\\Git\\FunPayApp\\FunPayApp\\FunPayApp\\FunPayApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\t179732\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\洪芸璇\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -509,9 +510,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.kerrytj.com/v3/index.json": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
