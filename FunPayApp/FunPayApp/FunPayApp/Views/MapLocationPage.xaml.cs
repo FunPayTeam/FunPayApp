@@ -1,6 +1,9 @@
 ﻿using FunPayApp.Models;
+using FunPayApp.ViewModels;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Text;
@@ -15,15 +18,16 @@ namespace FunPayApp.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MapLocationPage : ContentPage
     {
+        MapLocationPageViewModel mapLocationPageViewModel;
+        
+
         public MapLocationPage()
         {
             InitializeComponent();
 
-            Task.Delay(2000);
+            BindingContext = mapLocationPageViewModel = new MapLocationPageViewModel();
 
             OpenMapPin();
-
-            //OpenMapLoaction();
 
         }
 
@@ -66,37 +70,33 @@ namespace FunPayApp.Views
         /// <summary>
         /// Pin Marker by address
         /// </summary>
-        private void OpenMapPin()
+        private async void OpenMapPin()
         {
             try
             {
+                var context = await mapLocationPageViewModel.LoadPin();
+                Geocoder geoCoder = new Geocoder();
+                IEnumerable<Position> approximateLocations = await geoCoder.GetPositionsForAddressAsync("台北市中正區八德路一段1號");
+                Position position = approximateLocations.FirstOrDefault();
 
-                //預設定位=>台北車站
-                Position position = new Position(25.047955535854893, 121.5178990536724);
-                MapSpan mapSpan = MapSpan.FromCenterAndRadius(position, Distance.FromKilometers(100));
+                Location location = await Geolocation.GetLocationAsync(new GeolocationRequest(GeolocationAccuracy.High));
+                Distance distance4 = Distance.(position, position);
 
-                Xamarin.Forms.Maps.Map pinmap = new Xamarin.Forms.Maps.Map(mapSpan)
+                foreach (var marker in context)
                 {
-                    //顯示街道地圖
-                    MapType = MapType.Street,
-                    //允許縮放
-                    HasZoomEnabled = true,
-                    //顯示使用者的位置
-                    IsShowingUser = false,  
-                };
+                    Pin pin = new Pin
+                    {
+                        Type = PinType.Place,
+                        Position = position,
+                        Label ="VIew"
+                    };
+
+                    pinmap.Pins.Add(pin);
+                }
 
                 
-                Pin pin = new Pin
-                {
-                    Type = PinType.Place,
-                    Position = new Position(25.044408803729674, 121.52938387998931),
-                    Label = "華山",
-                    Address = "台北市中正區八德路一段1號",
-                };
 
-                pinmap.Pins.Add(pin);
-
-                pinmap.MoveToRegion(mapSpan);
+                pinmap.MoveToRegion(MapSpan.FromCenterAndRadius(new Position(location.Longitude, location.Longitude), Distance.FromMiles(1500)));
 
             }
             catch (Exception)
@@ -105,5 +105,8 @@ namespace FunPayApp.Views
             }
 
         }
+
+
+        
     }
 }
